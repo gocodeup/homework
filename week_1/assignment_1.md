@@ -42,3 +42,20 @@
 3. Create another variable and call it $food_available and set it equal to TRUE or FALSE.
 4. Create an if statement that will echo 'We are fed and good to go.' if both you have $food_available and are $hungry are true.
 5. Now create another variable $have_money and set it to either TRUE or FALSE. Adjust your if statement so it reads. If you are $hungry and there is $food_available or $have_money then you will eat. If none of those are true then echo "Not hungy but thank you!"
+
+### Ternary Operator
+
+1. Convert the following into the ternary operator form:
+
+```
+$logged_in = TRUE;
+
+if($logged_in)
+{
+	$logged_in_status = 'You are logged in';
+} else {
+	$logged_in_status = 'You are not logged in';
+}
+
+echo $logged_in_status
+```
