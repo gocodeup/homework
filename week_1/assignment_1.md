@@ -16,7 +16,7 @@
 ### Exercise #3 - Constants
 
 1. Define a constant BIRTH_CITY and set it equal to your birth city.
-2. Try to redefine that constant? Did you get the expected result?
+2. Try to redefine that constant. Did you get the expected result?
 
 ### Exercise #4 - Arrays
 
