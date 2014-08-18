@@ -37,11 +37,12 @@
 
 ### Control Structures
 
-1. Create if_homework.php file in your exercise directory.
-2. In this file create a variable called $hungry and set it to TRUE if you are hungry or FALSE if you are not.
-3. Create another variable and call it $food_available and set it equal to TRUE or FALSE.
-4. Create an if statement that will echo 'We are fed and good to go.' if both you have $food_available and are $hungry are true.
-5. Now create another variable $have_money and set it to either TRUE or FALSE. Adjust your if statement so it reads. If you are $hungry and there is $food_available or $have_money then you will eat. If none of those are true then echo "Not hungy but thank you!"
+Title file: hw_wk1_p1.php
+
+1. In this file create a variable called $hungry and set it to TRUE if you are hungry or FALSE if you are not.
+2. Create another variable and call it $food_available and set it equal to TRUE or FALSE.
+3. Create an if statement that will echo 'We are fed and good to go.' if both you have $food_available and are $hungry are true.
+4. Now create another variable $have_money and set it to either TRUE or FALSE. Adjust your if statement so it reads. If you are $hungry and there is $food_available or $have_money then you will eat. If none of those are true then echo "Not hungy but thank you!"
 
 ### Ternary Operator
 
