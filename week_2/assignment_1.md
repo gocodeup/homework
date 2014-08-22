@@ -8,7 +8,7 @@ __Title File: hw_wk2_p1.php__
 
 _Please look up the date function to help_
 
-1. Create a function called daysOfMonth.
+1. Create a function called days_of_month().
 2. Make sure you are able to pass a month e.g. 'January' to the function. Note: Leap year does not exist. (Lookup date function in php).
 3. Use other months to test your function.
 
@@ -24,7 +24,7 @@ February has 28 days in it. (Unless it is leap year, then return 29)
 
 __Title File: hw_wk2_p2.php__
 
-1. Create a function the returns the area of a circle.
+1. Create a function the returns the area of a circle: area_of_circle().
 2. Now create a function that returns the area of a donut; use your previous function to figure this out.
 3. The radius of the donut is 15 and the radius of its hole is 5.
 
@@ -32,7 +32,7 @@ __Title File: hw_wk2_p2.php__
 
 __Title file: h2_wk2_p3.php__
 
-You will need to create a function called __listCars()__ that excepts an array parameter. The function should return each car in the array like the example in the output section.
+You will need to create a function called __list_cars()__ that excepts an array parameter. The function should return each car in the array like the example in the output section.
 
 You have the following array:
 
@@ -82,7 +82,7 @@ Sunroof: N/A
 Convertable: N/A
 Lincense NO: HTML5
 ```
-Now create a function called __add_car()__ that allows you to add cars to the array and now call __listCars()__ so you are able to output with the new added car.
+Now create a function called __add_car()__ that allows you to add cars to the array and now call __list_cars()__ so you are able to output with the new added car.
 
 ### Exercise 4
 
