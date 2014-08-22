@@ -1,8 +1,8 @@
-#Assignment #2
+# Week 1 - Assignment #2
 
 ### Exercise #1 - People Array
 
-Title file: hw_wk1_p2.php
+__Title file: hw_wk1_p2.php__
 
 Create an array of people. Each person should have a 'name', 'phone_number', and 'address'. The 'name' should be an associative array with keys 'first' and 'last'. Make sure there are at least 3 people in the array.
 
@@ -19,7 +19,7 @@ Loop through the array and produces the following output:
 
 ### Exercise #2 - Quiz Array
 
-Title File: hw_wk1_p3.php
+__Title File: hw_wk1_p3.php__
 
 Create an array that represents a quiz. In the top level array, the keys should be the question numbers and the values should be an associative array. The associative array should have the following keys: 'question', 'answers', 'correct_answer'. The 'question' is a string. The 'answers' is as associative array with alphabetical keys and string values. The 'correct_answer' is a string representing the letter of the correct answer. Make sure your quiz has at least 3 questions.
 

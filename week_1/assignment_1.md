@@ -1,4 +1,4 @@
-#Assignment #1
+# Week 1 - Assignment #1
 
 ### Exercise #1 - Variable Assignment
 
@@ -37,7 +37,7 @@
 
 ### Control Structures
 
-Title file: hw_wk1_p1.php
+__Title file: hw_wk1_p1.php__
 
 1. In this file create a variable called $hungry and set it to TRUE if you are hungry or FALSE if you are not.
 2. Create another variable and call it $food_available and set it equal to TRUE or FALSE.
